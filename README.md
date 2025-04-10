@@ -32,7 +32,3 @@
   <img height="180em" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hechima256&theme=gruvbox&exclude=CSS" />
   <img height="180em" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hechima256&theme=gruvbox&exclude=CSS" />
 </p>
-
-<p align="center">
-  <img width="95%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hechima256&theme=gruvbox&utcOffset=9" />
-</p>
