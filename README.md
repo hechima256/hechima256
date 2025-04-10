@@ -16,19 +16,19 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=hechima256&count_private=true&show_icons=true&theme=gruvbox" />
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hechima256&layout=compact&hide=html,css,scss&theme=gruvbox" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hechima256&count_private=true&show_icons=true&theme=gruvbox" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hechima256&layout=compact&hide=html,css,scss&theme=gruvbox" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=hechima256&theme=gruvbox&column=7" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=hechima256&theme=gruvbox&column=7" />
 </p>
 
 <p align="center">
-  <img width="95%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hechima256&theme=gruvbox" />
+  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hechima256&theme=gruvbox" />
 </p>
 
 <p align="center">
-  <img height="180em" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hechima256&theme=gruvbox&exclude=CSS" />
-  <img height="180em" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hechima256&theme=gruvbox&exclude=CSS" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hechima256&theme=gruvbox&exclude=CSS" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hechima256&theme=gruvbox&exclude=CSS" />
 </p>
