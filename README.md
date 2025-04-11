@@ -15,9 +15,9 @@
 
 ## 📊 Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img style="max-width: 380px; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=hechima256&count_private=true&show_icons=true&theme=gruvbox" />
-  <img style="max-width: 380px; width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hechima256&layout=compact&hide=html,css,scss&theme=gruvbox" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: flex-start;">
+  <img style="max-width: 380px; width: 100%; @media (min-width: 768px) { width: 48%; }" src="https://github-readme-stats.vercel.app/api?username=hechima256&count_private=true&show_icons=true&theme=gruvbox" />
+  <img style="max-width: 380px; width: 100%; @media (min-width: 768px) { width: 48%; }" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hechima256&layout=compact&hide=html,css,scss&theme=gruvbox" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
