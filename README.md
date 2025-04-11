@@ -16,8 +16,8 @@
 ## 📊 Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: flex-start;">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hechima256&count_private=true&show_icons=true&theme=gruvbox" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hechima256&layout=compact&hide=html,css,scss&theme=gruvbox" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hechima256&count_private=true&show_icons=true&theme=gruvbox" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hechima256&layout=compact&hide=html,css,scss&theme=gruvbox" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -29,6 +29,6 @@
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
-  <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hechima256&theme=gruvbox&exclude=CSS" />
-  <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hechima256&theme=gruvbox&exclude=CSS" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hechima256&theme=gruvbox&exclude=CSS" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hechima256&theme=gruvbox&exclude=CSS" />
 </div>
