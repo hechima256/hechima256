@@ -16,19 +16,19 @@
 ## 📊 Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img style="max-width: 420px; width: 100%;" src="https://github-readme-stats.vercel.app/api?username=hechima256&count_private=true&show_icons=true&theme=gruvbox" />
-  <img style="max-width: 420px; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hechima256&layout=compact&hide=html,css,scss&theme=gruvbox" />
+  <img style="max-width: 380px; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=hechima256&count_private=true&show_icons=true&theme=gruvbox" />
+  <img style="max-width: 380px; width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hechima256&layout=compact&hide=html,css,scss&theme=gruvbox" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img style="max-width: 860px; width: 100%;" src="https://github-profile-trophy.vercel.app/?username=hechima256&theme=gruvbox&column=7" />
+  <img style="max-width: 780px; width: 100%;" src="https://github-profile-trophy.vercel.app/?username=hechima256&theme=gruvbox&column=7" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img style="max-width: 860px; width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hechima256&theme=gruvbox" />
+  <img style="max-width: 780px; width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hechima256&theme=gruvbox" />
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
-  <img style="max-width: 420px; width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hechima256&theme=gruvbox&exclude=CSS" />
-  <img style="max-width: 420px; width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hechima256&theme=gruvbox&exclude=CSS" />
+  <img style="max-width: 380px; width: 48%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hechima256&theme=gruvbox&exclude=CSS" />
+  <img style="max-width: 380px; width: 48%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hechima256&theme=gruvbox&exclude=CSS" />
 </div>
