@@ -4,6 +4,7 @@
   <a href="https://github.com/hechima256"><img height="20" src="https://komarev.com/ghpvc/?username=hechima256" /></a>
   <a href="https://github.com/hechima256"><img height="20" src="https://img.shields.io/github/followers/hechima256?label=follow&logo=github&style=flat" /></a>
   <a href="https://zenn.dev/hechima"><img height="20" src="https://badgen.org/img/zenn/hechima/articles?style=plastic" /></a>
+  <a href="https://atcoder.jp/users/hechima?contestType=algo"><img height="20" src="https://badgen.org/img/atcoder/hechima/rating/algorithm?style=plastic" /></a>
 </p>
 
 ### 💪 Concept
