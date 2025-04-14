@@ -19,5 +19,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hechima256&layout=compact&hide=html,css,scss&theme=gruvbox" />
 <img src="https://github-profile-trophy.vercel.app/?username=hechima256&theme=gruvbox&column=7" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hechima256&theme=gruvbox" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hechima256&theme=gruvbox&exclude=CSS" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hechima256&theme=gruvbox&exclude=CSS" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hechima256&theme=gruvbox&exclude=CSS" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hechima256&theme=gruvbox&exclude=CSS" />
