@@ -28,8 +28,3 @@
 <div align="center" style="margin-top: 20px;">
   <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hechima256&theme=gruvbox" />
 </div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hechima256&theme=gruvbox&exclude=CSS" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hechima256&theme=gruvbox&exclude=CSS" />
-</div>
