@@ -7,6 +7,15 @@
   <a href="https://atcoder.jp/users/hechima?contestType=algo"><img src="https://badgen.org/img/atcoder/hechima/rating/algorithm?style=flat-square" alt="Atcoder"></a>
 </div>
 
+### 👨‍💻 About Me
+
+電気通信大学でコンピュータサイエンスを専攻し、現在はエンジニアとして働いています。
+
+- 🎓 大学ではコンピュータサイエンスを専攻
+- 💼 スクラム開発、CI/CD改善
+- 🎮 将棋三段
+- 📝 [ポートフォリオ](https://portfolio-hechimas-projects.vercel.app)
+
 ### 💪 Concept
 
 **1 日 1 コミット - Better than Nothing**
