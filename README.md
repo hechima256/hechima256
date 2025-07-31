@@ -3,8 +3,8 @@
 <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <a href="https://github.com/hechima256"><img src="https://komarev.com/ghpvc/?username=hechima256&style=flat-square&color=211F22" alt="GitHub PV"></a>
   <a href="https://github.com/hechima256"><img src="https://img.shields.io/github/followers/hechima256?label=follow&logo=github&style=flat-square&color=211F22" alt="GitHub Follower"></a>
-  <a href="https://zenn.dev/hechima"><img src="https://badgen.org/img/zenn/hechima/articles?style=flat-square" alt="Zenn Articles"></a>
-  <a href="https://zenn.dev/hechima?tab=scraps"><img src="https://badgen.org/img/zenn/hechima/scraps?style=flat-square" alt="Zenn Scraps"></a>
+  <a href="https://zenn.dev/hechima"><img src="https://badgen.org/img/zenn/hechima/articles?style=flat-square&cache=86400" alt="Zenn Articles"></a>
+  <a href="https://zenn.dev/hechima?tab=scraps"><img src="https://badgen.org/img/zenn/hechima/scraps?style=flat-square&cache=86400" alt="Zenn Scraps"></a>
   <a href="https://atcoder.jp/users/hechima?contestType=algo"><img src="https://badgen.org/img/atcoder/hechima/rating/algorithm?style=flat-square&cache=86400" alt="Atcoder"></a>
 </div>
 
