@@ -1,4 +1,4 @@
-## Hi! I'm hechima 👋
+## Hi! I'm hechima
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px; align-items: center;">
   <a href="https://github.com/hechima256"><img src="https://komarev.com/ghpvc/?username=hechima256&style=flat-square&color=211F22" alt="GitHub PV"></a>
