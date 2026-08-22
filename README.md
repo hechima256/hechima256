@@ -8,32 +8,22 @@
 
 ### About
 
-電気通信大学でコンピュータサイエンスを学び、現在はソフトウェアエンジニアとして働いています。
-バックエンド・インフラ領域を軸に、自身の体験から生まれた課題を解決するプロダクトづくりを目指しています。
+電気通信大学でコンピュータサイエンスを学んだあと、事業会社でWebアプリケーションの開発をしていました。
+現在は業務委託でソフトウェア開発をしながら、自身の体験から生まれた課題を解決するプロダクトで起業する準備をしています。
 
 - **Frontend**: TypeScript, React
 - **Backend**: Node.js, FastAPI
 - **Cloud / Infra**: AWS (ECS/Fargate, Lambda, API Gateway, DynamoDB, S3, SQS), Docker
 
-最近はシステム設計・アーキテクチャの学習と、新規プロダクトに向けた市場調査・ユーザーインタビューを進めています。
+いまは市場調査とユーザーインタビューを進めている段階です。
+作っているものや考えていることは [Zenn](https://zenn.dev/hechima) に書いています。
 将棋三段。論理的に考えることと振り返る習慣は、将棋から持ち込んだものです。
 
-経歴やプロジェクトの詳細は [ポートフォリオ](https://portfolio-hechimas-projects.vercel.app) にまとめています。
-
-### Concept
-
-**1 日 1 コミット - Better than Nothing**
-
-> コミットなんて、これでええんです  
-> 何入れたってコミットになるんです。堅苦しく考えんでええ
+経歴やこれまでのプロジェクトは [ポートフォリオ](https://portfolio-hechimas-projects.vercel.app) にまとめています。
 
 ### Stats
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hechima256&theme=gruvbox" alt="GitHub Stats">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hechima256&theme=gruvbox" alt="Most Committed Languages">
-</p>
-
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com/?user=hechima256&theme=gruvbox&hide_border=true" alt="GitHub Streak">
 </p>
