@@ -2,7 +2,6 @@
 
 <a href="https://github.com/hechima256"><img src="https://komarev.com/ghpvc/?username=hechima256&style=flat-square&color=211F22" alt="GitHub PV"></a>
 <a href="https://github.com/hechima256"><img src="https://img.shields.io/github/followers/hechima256?label=follow&logo=github&style=flat-square&color=211F22" alt="GitHub Followers"></a>
-<a href="https://zenn.dev/hechima"><img src="https://badgen.org/img/zenn/hechima/articles?style=flat-square&cache=86400" alt="Zenn Articles"></a>
 <a href="https://zenn.dev/hechima?tab=scraps"><img src="https://badgen.org/img/zenn/hechima/scraps?style=flat-square&cache=86400" alt="Zenn Scraps"></a>
 <a href="https://atcoder.jp/users/hechima?contestType=algo"><img src="https://badgen.org/img/atcoder/hechima/rating/algorithm?style=flat-square&cache=86400" alt="AtCoder Rating"></a>
 
@@ -15,8 +14,6 @@
 - **Backend**: Node.js, FastAPI
 - **Cloud / Infra**: AWS (ECS/Fargate, Lambda, API Gateway, DynamoDB, S3, SQS), Docker
 
-いまは市場調査とユーザーインタビューを進めている段階です。
-作っているものや考えていることは [Zenn](https://zenn.dev/hechima) に書いています。
 将棋三段。論理的に考えることと振り返る習慣は、将棋から持ち込んだものです。
 
 経歴やこれまでのプロジェクトは [ポートフォリオ](https://portfolio-hechimas-projects.vercel.app) にまとめています。
