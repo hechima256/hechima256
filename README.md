@@ -14,7 +14,7 @@
 - **Backend**: Node.js, FastAPI
 - **Cloud / Infra**: AWS (ECS/Fargate, Lambda, API Gateway, DynamoDB, S3, SQS), Docker
 
-将棋三段。論理的に考えることと振り返る習慣は、将棋から持ち込んだものです。
+趣味は将棋です（三段）。
 
 経歴やこれまでのプロジェクトは [ポートフォリオ](https://portfolio-hechimas-projects.vercel.app) にまとめています。
 
